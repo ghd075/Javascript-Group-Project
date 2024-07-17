@@ -3,7 +3,7 @@
 ## 주제 : 지도 api
 
 ## 링크
-- [테스트](http://www.naver.com/)
+- [테스트](https://aquamarine-melba-ec4db0.netlify.app/)
 - [배포](https://codingsister-js-teamproject.netlify.app/)
 - [피그마](https://www.figma.com/design/OaschMcLrot0yruH5uJ0eP/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-2%EA%B8%B0-5%EC%A1%B0?node-id=0-1&t=JYqZAI4Q6Tj9nX2v-1)
 
